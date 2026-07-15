@@ -8,9 +8,7 @@ Below is a list of exactly what is included in this repository:
 2. **README.md**: Includes local setup, run instructions, and project overview.
 3. **ARCHITECTURE.md**: A short note explaining the system architecture and technical decisions.
 4. **AI_WORKFLOW.md**: A note detailing the AI tools used, how they accelerated the build, and how outputs were verified and refined.
-5. **VIDEO_URL.txt**: A text file containing the link to the walkthrough video.
-6. **SUBMISSION.md**: This file, listing the contents and deployment links.
-
+5. **SUBMISSION.md**: This file, listing the contents and deployment links.
 
 ## Test Accounts & Credentials
 
