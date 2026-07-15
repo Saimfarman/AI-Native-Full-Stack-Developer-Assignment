@@ -10,6 +10,14 @@ Below is a list of exactly what is included in this repository:
 4. **AI_WORKFLOW.md**: A note detailing the AI tools used, how they accelerated the build, and how outputs were verified and refined.
 5. **SUBMISSION.md**: This file, listing the contents and deployment links.
 
+## Google Drive Link
+
+[drive.google.com/drive/folders/1_hB3l5KwNMELk1zrpj2jbslMfTzOkiBC?usp=sharing](https://drive.google.com/drive/folders/1_hB3l5KwNMELk1zrpj2jbslMfTzOkiBC?usp=sharing)
+
+## GitHub Repo Link
+
+`https://github.com/Saimfarman/AI-Native-Full-Stack-Developer-Assignment`
+
 ## Test Accounts & Credentials
 
 The application is pre-seeded with demo users to review the sharing flows. When you launch the application, you can use the "User Switcher" on the left sidebar to switch between seeded demo users. No passwords or authentication are required for this demo environment.
