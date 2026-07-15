@@ -11,12 +11,6 @@ Below is a list of exactly what is included in this repository:
 5. **VIDEO_URL.txt**: A text file containing the link to the walkthrough video.
 6. **SUBMISSION.md**: This file, listing the contents and deployment links.
 
-## Live Product URL
-
-*Please replace the links below with your actual deployed URLs:*
-
-- **Frontend URL**: [https://your-frontend-deployment-url.vercel.app](https://your-frontend-deployment-url.vercel.app)
-- **Backend API URL**: [https://your-backend-deployment-url.herokuapp.com](https://your-backend-deployment-url.herokuapp.com)
 
 ## Test Accounts & Credentials
 
