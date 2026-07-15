@@ -49,10 +49,6 @@ Set `VITE_API_BASE_URL` in `frontend/.env` if your API is not running at `http:/
 
 The file import workflow supports `.txt` and `.md` files only.
 
-## Deployment
-
-Preferred review path: deploy the Django API on a managed Postgres-backed host and the Vite frontend on a static host such as Vercel or Netlify, then point `VITE_API_BASE_URL` at the live API.
-
 ## AI-native workflow note
 
 - AI tools used: GitHub Copilot in VS Code, plus local code-generation and refactoring support inside this workspace.
