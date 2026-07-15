@@ -32,9 +32,6 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-Set the PostgreSQL environment variables in `backend/.env` or your shell before running the server.
-For production or review deployments, keep `DJANGO_USE_SQLITE` unset so the app uses PostgreSQL.
-The backend uses seeded demo users and stores document ownership and sharing in PostgreSQL.
 
 ## Frontend
 
@@ -45,9 +42,6 @@ npm test
 npm run dev
 ```
 
-Set `VITE_API_BASE_URL` in `frontend/.env` if your API is not running at `http://localhost:8000/api`.
-
-The file import workflow supports `.txt` and `.md` files only.
 
 ## AI-native workflow note
 
